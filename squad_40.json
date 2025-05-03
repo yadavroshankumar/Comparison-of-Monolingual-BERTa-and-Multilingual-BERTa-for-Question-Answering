@@ -1,0 +1,283 @@
+[
+    {
+        "id": "1",
+        "question": "On what TV station did Red Nose Day appear?",
+        "context": "On 13 March 2015, several members of the cast and crew, including Craig, Whishaw, Wilson and Mendes, as well as previous James Bond actor, Sir Roger Moore, appeared in a sketch written by David Walliams and the Dawson Brothers for Comic Relief's Red Nose Day on BBC One. In the sketch, they film a behind-the-scenes mockumentary on the filming of Spectre. The first teaser trailer for Spectre was released worldwide in March 2015, followed by the theatrical trailer in July and the final trailer in October.",
+        "answer_text": "BBC One",
+        "answer_start": 262
+    },
+    {
+        "id": "2",
+        "question": "Who did the most to popularize folk songs of the county?",
+        "context": "A local pioneer of folk song collection in the first half of the 19th century was Shakespearean scholar James Orchard Halliwell, but it was not until the second folk revival in the 20th century that the full range of song from the county, including industrial folk song, began to gain attention. The county produced one of the major figures of the revival in Ewan MacColl, but also a local champion in Harry Boardman, who from 1965 onwards probably did more than anyone to popularise and record the folk song of the county. Perhaps the most influential folk artists to emerge from the region in the late 20th century were Liverpool folk group The Spinners, and from Manchester folk troubadour Roy Harper and musician, comedian and broadcaster Mike Harding. The region is home to numerous folk clubs, many of them catering to Irish and Scottish folk music. Regular folk festivals include the Fylde Folk Festival at Fleetwood.",
+        "answer_text": "Harry Boardman",
+        "answer_start": 402
+    },
+    {
+        "id": "3",
+        "question": "When was the low point in Philadelphia's population?",
+        "context": "According to the 2014 United States Census estimates, there were 1,560,297 people residing in the City of Philadelphia, representing a 2.2% increase since 2010. From the 1960s up until 2006, the city's population declined year after year. It eventually reached a low of 1,488,710 residents in 2006 before beginning to rise again. Since 2006, Philadelphia added 71,587 residents in eight years. A study done by the city projected that the population would increase to about 1,630,000 residents by 2035, an increase of about 100,000 from 2010.",
+        "answer_text": "2006",
+        "answer_start": 293
+    },
+    {
+        "id": "4",
+        "question": "Who is the record holder for most trophy wins as coach of Barcelona?",
+        "context": "Later the same month, Barcelona won the UEFA Super Cup after defeating Porto 2\u20130 thanks to goals from Lionel Messi and Cesc F\u00e0bregas. This extended the club's overall number of official trophies to 74, surpassing Real Madrid's total amount of official trophies. The UEFA Super Cup victory also marked another impressive achievement as Josep Guardiola won his 12th trophy out of 15 possible in only three years at the helm of the club, becoming the all-time record holder of most titles won as a coach at FC Barcelona.",
+        "answer_text": "Josep Guardiola",
+        "answer_start": 335
+    },
+    {
+        "id": "5",
+        "question": "In the U.S. and governments modeled on it, who holds executive power?",
+        "context": "By the late 20th century, the majority of the world's countries had a prime minister or equivalent minister, holding office under either a constitutional monarchy or a ceremonial president. The main exceptions to this system have been the United States and the presidential republics in Latin America modelled on the U.S. system, in which the president directly exercises executive authority.",
+        "answer_text": "president",
+        "answer_start": 179
+    },
+    {
+        "id": "6",
+        "question": "Who captured Constantinople?",
+        "context": "Despite these crises, the 14th century was also a time of great progress in the arts and sciences. Following a renewed interest in ancient Greek and Roman texts that took root in the High Middle Ages, the Italian Renaissance began. The absorption of Latin texts had started before the Renaissance of the 12th century through contact with Arabs during the Crusades, but the availability of important Greek texts accelerated with the capture of Constantinople by the Ottoman Turks, when many Byzantine scholars had to seek refuge in the West, particularly Italy.",
+        "answer_text": "Ottoman Turks",
+        "answer_start": 465
+    },
+    {
+        "id": "7",
+        "question": "Besides the Vedic practices, what other religion did the Guptas patronize?",
+        "context": "The high points of this cultural creativity are magnificent architecture, sculpture, and painting. The Gupta period produced scholars such as Kalidasa, Aryabhata, Varahamihira, Vishnu Sharma, and Vatsyayana who made great advancements in many academic fields. The Gupta period marked a watershed of Indian culture: the Guptas performed Vedic sacrifices to legitimize their rule, but they also patronized Buddhism, which continued to provide an alternative to Brahmanical orthodoxy. The military exploits of the first three rulers \u2013 Chandragupta I, Samudragupta, and Chandragupta II - brought much of India under their leadership. Science and political administration reached new heights during the Gupta era. Strong trade ties also made the region an important cultural centre and established it as a base that would influence nearby kingdoms and regions in Burma, Sri Lanka, Maritime Southeast Asia, and Indochina. For these reasons, historian Dr.Barnett remarked:",
+        "answer_text": "Buddhism",
+        "answer_start": 404
+    },
+    {
+        "id": "8",
+        "question": "Where was Kerry's yacht built?",
+        "context": "According to the Boston Herald, dated July 23, 2010, Kerry commissioned construction on a new $7 million yacht (a Friendship 75) in New Zealand and moored it in Portsmouth, Rhode Island, where the Friendship yacht company is based. The article claimed this allowed him to avoid paying Massachusetts taxes on the property including approximately $437,500 in sales tax and an annual excise tax of about $500. However, on July 27, 2010, Kerry stated he had yet to take legal possession of the boat, had not intended to avoid the taxes, and that when he took possession, he would pay the taxes whether he owed them or not.",
+        "answer_text": "New Zealand",
+        "answer_start": 132
+    },
+    {
+        "id": "9",
+        "question": "Which term did the new constitution allow Sassou to pursue?",
+        "context": "On March 27, 2015 Sassou Nguesso announced that his government would hold a referendum to change the country's 2002 constitution and allow him to run for a third consecutive term in office. On October 25 the government held a referendum to allow Sassou Nguesso to run in the next election. The government claimed that the proposal as approved by 92 percent of voters with 72 percent of eligible voters participating. The opposition, who had boycotted the referendum claimed that the government's statistics were false and that the vote was a sham.",
+        "answer_text": "third",
+        "answer_start": 156
+    },
+    {
+        "id": "10",
+        "question": "What did James Glimm have to say about von Nuemann?",
+        "context": "\"I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man\", said Nobel Laureate Hans Bethe of Cornell University. \"It seems fair to say that if the influence of a scientist is interpreted broadly enough to include impact on fields beyond science proper, then John von Neumann was probably the most influential mathematician who ever lived,\" wrote Mikl\u00f3s R\u00e9dei in \"Selected Letters.\" James Glimm wrote: \"he is regarded as one of the giants of modern mathematics\". The mathematician Jean Dieudonn\u00e9 called von Neumann \"the last of the great mathematicians\", while Peter Lax described him as possessing the \"most scintillating intellect of this century\".",
+        "answer_text": "he is regarded as one of the giants of modern mathematics",
+        "answer_start": 459
+    },
+    {
+        "id": "11",
+        "question": "What document did Foreign Minister de Brum present at the 44th Pacific Islands Forum summit?",
+        "context": "Following the 2013 emergencies, the Minister of Foreign Affairs Tony de Brum was encouraged by the Obama administration in the United States to turn the crises into an opportunity to promote action against climate change. De Brum demanded new commitment and international leadership to stave off further climate disasters from battering his country and other similarly vulnerable countries. In September 2013, the Marshall Islands hosted the 44th Pacific Islands Forum summit. De Brum proposed a Majuro Declaration for Climate Leadership to galvanize concrete action on climate change.",
+        "answer_text": "Majuro Declaration for Climate Leadership",
+        "answer_start": 496
+    },
+    {
+        "id": "12",
+        "question": "Who were the two most powerful nations in the 1860's?",
+        "context": "By the 1860s the Kingdom of Prussia and the Austrian Empire were the two most powerful nations dominated by German-speaking elites. Both sought to expand their influence and territory. The Austrian Empire \u2013 like the Holy Roman Empire \u2013 was a multi-ethnic state, but German-speaking people there did not have an absolute numerical majority; the creation of the Austro-Hungarian Empire was one result of the growing nationalism of other ethnicities especially the Hungarians. Prussia under Otto von Bismarck would ride on the coat-tails of nationalism to unite all of modern-day Germany. The German Empire (\"Second Reich\") was created in 1871 following the proclamation of Wilhelm I as head of a union of German-speaking states, while disregarding millions of its non-German subjects who desired self-determination from German rule.",
+        "answer_text": "Kingdom of Prussia and the Austrian Empire",
+        "answer_start": 17
+    },
+    {
+        "id": "13",
+        "question": "How did the federal agencies differ from their English counter-parts?",
+        "context": "Unlike the situation with the states, there is no plenary reception statute at the federal level that continued the common law and thereby granted federal courts the power to formulate legal precedent like their English predecessors. Federal courts are solely creatures of the federal Constitution and the federal Judiciary Acts. However, it is universally accepted that the Founding Fathers of the United States, by vesting \"judicial power\" into the Supreme Court and the inferior federal courts in Article Three of the United States Constitution, thereby vested in them the implied judicial power of common law courts to formulate persuasive precedent; this power was widely accepted, understood, and recognized by the Founding Fathers at the time the Constitution was ratified. Several legal scholars have argued that the federal judicial power to decide \"cases or controversies\" necessarily includes the power to decide the precedential effect of those cases and controversies.",
+        "answer_text": "no plenary reception statute at the federal level that continued the common law",
+        "answer_start": 47
+    },
+    {
+        "id": "14",
+        "question": "What year's poll of supporters said that the Tottenham rivalry was greatest?",
+        "context": "Arsenal's longest-running and deepest rivalry is with their nearest major neighbours, Tottenham Hotspur; matches between the two are referred to as North London derbies. Other rivalries within London include those with Chelsea, Fulham and West Ham United. In addition, Arsenal and Manchester United developed a strong on-pitch rivalry in the late 1980s, which intensified in recent years when both clubs were competing for the Premier League title \u2013 so much so that a 2003 online poll by the Football Fans Census listed Manchester United as Arsenal's biggest rivals, followed by Tottenham and Chelsea. A 2008 poll listed the Tottenham rivalry as more important.",
+        "answer_text": "2008",
+        "answer_start": 604
+    },
+    {
+        "id": "15",
+        "question": "How many seasons did the Toronto Phantoms last?",
+        "context": "While some teams have enjoyed considerable on-field and even financial success, many teams in the history of the league have enjoyed little success either on or off of the field of play. There are a number of franchises which existed in the form of a number of largely-unrelated teams under numerous management groups until they folded (an example is the New York CityHawks whose owners transferred the team from New York to Hartford to become the New England Sea Wolves after two seasons, then after another two seasons were sold and became the Toronto Phantoms, who lasted another two seasons until folding). There are a number of reasons why these teams failed, including financially weak ownership groups, lack of deep financial support from some owners otherwise capable of providing it, lack of media exposure, and the host city's evident lack of interest in its team or the sport as a whole.",
+        "answer_text": "two",
+        "answer_start": 477
+    },
+    {
+        "id": "16",
+        "question": "In 2011, what time frame did the Swiss government give for ending its use of nuclear energy?",
+        "context": "On 25 May 2011 the Swiss government announced that it plans to end its use of nuclear energy in the next 2 or 3 decades. \"The government has voted for a phaseout because we want to ensure a secure and autonomous supply of energy\", Energy Minister Doris Leuthard said that day at a press conference in Bern. \"Fukushima showed that the risk of nuclear power is too high, which in turn has also increased the costs of this energy form.\" The first reactor would reportedly be taken offline in 2019 and the last one in 2034. Parliament will discuss the plan in June 2011, and there could be a referendum as well.",
+        "answer_text": "2 or 3 decades",
+        "answer_start": 105
+    },
+    {
+        "id": "17",
+        "question": "What shape do grapes usually resemble?",
+        "context": "Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink. \"White\" grapes are actually green in color, and are evolutionarily derived from the purple grape. Mutations in two regulatory genes of white grapes turn off production of anthocyanins, which are responsible for the color of purple grapes. Anthocyanins and other pigment chemicals of the larger family of polyphenols in purple grapes are responsible for the varying shades of purple in red wines. Grapes are typically an ellipsoid shape resembling a prolate spheroid.",
+        "answer_text": "prolate spheroid",
+        "answer_start": 583
+    },
+    {
+        "id": "18",
+        "question": "How many rounds of anti-defense were fired?",
+        "context": "On 14 October, the heaviest night attack to date saw 380 German bombers from Luftflotte 3 hit London. Around 200 people were killed and another 2,000 injured. British anti-aircraft defences (General Frederick Alfred Pile) fired 8,326 rounds and shot down only two bombers. On 15 October, the bombers returned and about 900 fires were started by the mix of 415 short tons (376 t) of high explosive and 11 short tons (10.0 t) of incendiaries dropped. Five main rail lines were cut in London and rolling stock damaged.",
+        "answer_text": "8,326 rounds",
+        "answer_start": 228
+    },
+    {
+        "id": "19",
+        "question": "What was Napoleon's actual height, in feet and inches?",
+        "context": "During the Napoleonic Wars he was taken seriously by the British press as a dangerous tyrant, poised to invade. He was often referred to by the British as Boney. A nursery rhyme warned children that Bonaparte ravenously ate naughty people; the \"bogeyman\". The British Tory press sometimes depicted Napoleon as much smaller than average height, and this image persists. Confusion about his height also results from the difference between the French pouce and British inch\u20142.71 cm and 2.54 cm, respectively. The myth of the \"Napoleon Complex\u201d \u2014 named after him to describe men who have an inferiority complex \u2014 stems primarily from the fact that he was listed, incorrectly, as 5 feet 2 inches (in French units) at the time of his death. In fact, he was 1.68 metres (5 ft 6 in) tall, an average height for a man in that period.[note 11]",
+        "answer_text": "5 ft 6 in",
+        "answer_start": 764
+    },
+    {
+        "id": "20",
+        "question": "What music is the Carnival celebrated with in the Chota Valley?",
+        "context": "The most famed Carnival festivities are in Guaranda (Bolivar province) and Ambato (Tungurahua province). In Ambato, the festivities are called Fiesta de las Flores y las Frutas (Festival of the Flowers and Fruits). Other cities have revived Carnival traditions with colorful parades, such as in Azogues (Ca\u00f1ar Province). In Azogues and the Southern Andes in general, Taita Carnival is always an indigenous Ca\u00f1ari. Recently a celebration has gained prominence in the northern part of the Sierra in the Chota Valley in Imbabura which is a zone of a strong afro-Ecuadorian population and so the Carnival is celebrated with bomba del chota music.",
+        "answer_text": "bomba del chota",
+        "answer_start": 620
+    },
+    {
+        "id": "21",
+        "question": "What was the GDP of the island in 1999-2000?",
+        "context": "Quoted at constant 2002 prices, GDP fell from \u00a312 million in 1999-2000 to \u00a311 million in 2005-06. Imports are mainly from the UK and South Africa and amounted to \u00a36.4 million in 2004-05 (quoted on an FOB basis). Exports are much smaller, amounting to \u00a30.2 million in 2004-05. Exports are mainly fish and coffee; Philatelic sales were \u00a30.06 million in 2004-05. The limited number of visiting tourists spent about \u00a30.4 million in 2004-05, representing a contribution to GDP of 3%.",
+        "answer_text": "\u00a312 million",
+        "answer_start": 46
+    },
+    {
+        "id": "22",
+        "question": "Along with Hightown and Redbridge, what's the third fire station in Southampton?",
+        "context": "Southampton's fire cover is provided by Hampshire Fire and Rescue Service. There are three fire stations within the city boundaries at St Mary's, Hightown and Redbridge.",
+        "answer_text": "St Mary's",
+        "answer_start": 135
+    },
+    {
+        "id": "23",
+        "question": "When did Switzerland ratify the Kyoto Protocol",
+        "context": "Switzerland has one of the best environmental records among nations in the developed world; it was one of the countries to sign the Kyoto Protocol in 1998 and ratified it in 2003. With Mexico and the Republic of Korea it forms the Environmental Integrity Group (EIG). The country is heavily active in recycling and anti-littering regulations and is one of the top recyclers in the world, with 66% to 96% of recyclable materials being recycled, depending on the area of the country. The 2014 Global Green Economy Index ranked Switzerland among the top 10 green economies in the world.",
+        "answer_text": "2003",
+        "answer_start": 174
+    },
+    {
+        "id": "24",
+        "question": "How much money did Spectre gross after four weekends in China?",
+        "context": "In China, it opened on 12 November and earned $15 million on its opening day, which is the second biggest 2D single day gross for a Hollywood film behind the $18.5 million opening day of Mission: Impossible \u2013 Rogue Nation and occupying 43% of all available screens which included $790,000 in advance night screenings. Through its opening weekend, it earned $48.1 million from 14,700 screens which is 198% ahead of Skyfall, a new record for a Hollywood 2D opening. IMAX contributed $4.6 million on 246 screens, also a new record for a three-day opening for a November release (breaking Interstellar's record). In its second weekend, it added $12.1 million falling precipitously by 75% which is the second worst second weekend drop for any major Hollywood release in China of 2015. It grossed a total of $84.7 million there after four weekends. Albeit a strong opening it failed to attain the $100 million mark as projected.",
+        "answer_text": "$84.7 million",
+        "answer_start": 802
+    },
+    {
+        "id": "25",
+        "question": "What are non-rock styles that post-punk used as inspiration?",
+        "context": "Though the music varied widely between regions and artists, the post-punk movement has been characterized by its \"conceptual assault\" on rock conventions and rejection of aesthetics perceived of as traditionalist, hegemonic or rockist in favor of experimentation with production techniques and non-rock musical styles such as dub, electronic music, disco, noise, jazz, krautrock, world music and the avant-garde. While post-punk musicians often avoided or intentionally obscured conventional influences, previous musical styles did serve as touchstones for the movement, including particular brands of glam, art rock and \"[the] dark undercurrent of '60s music\".[nb 1] According to Reynolds, artists once again approached the studio as an instrument, using new recording methods and pursuing novel sonic territories. Author Matthew Bannister wrote that post-punk artists rejected the high cultural references of 1960s rock artists like the Beatles and Bob Dylan as well as paradigms that defined \"rock as progressive, as art, as 'sterile' studio perfectionism ... by adopting an avant-garde aesthetic\".",
+        "answer_text": "dub, electronic music, disco, noise, jazz, krautrock, world music and the avant-garde",
+        "answer_start": 326
+    },
+    {
+        "id": "26",
+        "question": "When did Russian language spread to the peasants?",
+        "context": "Until the 20th century, the language's spoken form was the language of only the upper noble classes and urban population, as Russian peasants from the countryside continued to speak in their own dialects. By the mid-20th century, such dialects were forced out with the introduction of the compulsory education system that was established by the Soviet government. Despite the formalization of Standard Russian, some nonstandard dialectal features (such as fricative [\u0263] in Southern Russian dialects) are still observed in colloquial speech.",
+        "answer_text": "the 20th century",
+        "answer_start": 6
+    },
+    {
+        "id": "27",
+        "question": "What occupation did Von Neumann father hold?",
+        "context": "Von Neumann was born Neumann J\u00e1nos Lajos (in Hungarian the family name comes first), Hebrew name Yonah, in Budapest, Kingdom of Hungary, which was then part of the Austro-Hungarian Empire, to wealthy Jewish parents of the Haskalah. He was the eldest of three children. He had two younger brothers: Michael, born in 1907, and Nicholas, who was born in 1911. His father, Neumann Miksa (Max Neumann) was a banker, who held a doctorate in law. He had moved to Budapest from P\u00e9cs at the end of the 1880s. Miksa's father and grandfather were both born in Ond (now part of the town of Szerencs), Zempl\u00e9n County, northern Hungary. John's mother was Kann Margit (Margaret Kann); her parents were Jakab Kann and Katalin Meisels. Three generations of the Kann family lived in spacious apartments above the Kann-Heller offices in Budapest; von Neumann's family occupied an 18-room apartment on the top floor.",
+        "answer_text": "banker",
+        "answer_start": 403
+    },
+    {
+        "id": "28",
+        "question": "Leon Ulrich wrote about Chopin in what format?",
+        "context": "Chopin has figured extensively in Polish literature, both in serious critical studies of his life and music and in fictional treatments. The earliest manifestation was probably an 1830 sonnet on Chopin by Leon Ulrich. French writers on Chopin (apart from Sand) have included Marcel Proust and Andr\u00e9 Gide; and he has also featured in works of Gottfried Benn and Boris Pasternak. There are numerous biographies of Chopin in English (see bibliography for some of these).",
+        "answer_text": "sonnet",
+        "answer_start": 185
+    },
+    {
+        "id": "29",
+        "question": "What are emotional episodes defined in contrast to?",
+        "context": "A distinction can be made between emotional episodes and emotional dispositions. Emotional dispositions are also comparable to character traits, where someone may be said to be generally disposed to experience certain emotions. For example, an irritable person is generally disposed to feel irritation more easily or quickly than others do. Finally, some theorists place emotions within a more general category of \"affective states\" where affective states can also include emotion-related phenomena such as pleasure and pain, motivational states (for example, hunger or curiosity), moods, dispositions and traits.",
+        "answer_text": "emotional dispositions",
+        "answer_start": 57
+    },
+    {
+        "id": "30",
+        "question": "Whose regime prohibited political parties?",
+        "context": "The dictatorship of Franco forbade political parties and began a harsh ideological and cultural repression countenanced and sometimes even led by the Church. The financial markets were destabilised, causing a severe economic crisis that led to rationing. A black market in rationed goods existed for over a decade. The Francoist administrations of Valencia silenced publicity of the catastrophic consequences of the floods of 1949 with the attendant dozens of deaths, but could not do the same after the even more tragic flood of 1957 when the river Turia overflowed its banks again, killing many Valencians (officially, eighty-one died; the actual figure is not known). To prevent further disasters, the river was eventually diverted to a new course. The old river bed was abandoned for years, and successive Francoist mayors proposed making it a motorway, but that option was finally rejected with the advent of democracy and fervent neighbourhood protests. The river was divided in two at the western city limits (Plan Sur de Valencia), and diverted southwards along a new course that skirts the city, before meeting the Mediterranean. The old course of the river continues, dry, through the city centre, almost to the sea. The old riverbed is now a verdant sunken park called the 'Garden of the Turia' (Jard\u00ed del T\u00faria or Jard\u00edn del Turia) that allows cyclists and pedestrians to traverse much of the city without the use of roads; overhead bridges carry motor traffic across the park.",
+        "answer_text": "Franco",
+        "answer_start": 20
+    },
+    {
+        "id": "31",
+        "question": "Which municipality is this in?",
+        "context": "The oldest attestation of human presence in Galicia has been found in the Eir\u00f3s Cave, in the municipality of Triacastela, which has preserved animal remains and Neanderthal stone objects from the Middle Paleolithic. The earliest culture to have left significant architectural traces is the Megalithic culture which expanded along the western European coasts during the Neolithic and Calcolithic eras. Thousands of Megalithic tumuli are distributed throughout the country, but mostly along the coastal areas. Within each tumulus is a stone burial chamber known locally as anta (dolmen), frequently preceded by a corridor. Galicia was later fully affected by the Bell Beaker culture. While its rich mineral deposits - tin and gold - led to the development of Bronze Age metallurgy, and to the commerce of bronze and gold items all along the Atlantic fa\u00e7ade of Western Europe, where a common elite's culture evolved during the Atlantic Bronze Age.",
+        "answer_text": "Triacastela",
+        "answer_start": 109
+    },
+    {
+        "id": "32",
+        "question": "How many marks did John surrender?",
+        "context": "Under mounting political pressure, John finally negotiated terms for a reconciliation, and the papal terms for submission were accepted in the presence of the papal legate Pandulf Verraccio in May 1213 at the Templar Church at Dover. As part of the deal, John offered to surrender the Kingdom of England to the papacy for a feudal service of 1,000 marks (equivalent to \u00a3666 at the time) annually: 700 marks (\u00a3466) for England and 300 marks (\u00a3200) for Ireland, as well as recompensing the church for revenue lost during the crisis. The agreement was formalised in the Bulla Aurea, or Golden Bull. This resolution produced mixed responses. Although some chroniclers felt that John had been humiliated by the sequence of events, there was little public reaction. Innocent benefited from the resolution of his long-standing English problem, but John probably gained more, as Innocent became a firm supporter of John for the rest of his reign, backing him in both domestic and continental policy issues. Innocent immediately turned against Philip, calling upon him to reject plans to invade England and to sue for peace. John paid some of the compensation money he had promised the church, but he ceased making payments in late 1214, leaving two-thirds of the sum unpaid; Innocent appears to have conveniently forgotten this debt for the good of the wider relationship.",
+        "answer_text": "1,000",
+        "answer_start": 342
+    },
+    {
+        "id": "33",
+        "question": "What is one possible objection to the theory of integrated variation?",
+        "context": "Chapter VI begins by saying the next three chapters will address possible objections to the theory, the first being that often no intermediate forms between closely related species are found, though the theory implies such forms must have existed. As Darwin noted, \"Firstly, why, if species have descended from other species by insensibly fine gradations, do we not everywhere see innumerable transitional forms? Why is not all nature in confusion, instead of the species being, as we see them, well defined?\" Darwin attributed this to the competition between different forms, combined with the small number of individuals of intermediate forms, often leading to extinction of such forms. This difficulty can be referred to as the absence or rarity of transitional varieties in habitat space.",
+        "answer_text": "often no intermediate forms between closely related species are found",
+        "answer_start": 121
+    },
+    {
+        "id": "34",
+        "question": "How old was the young boy's remains?",
+        "context": "A 2013 study in Nature reported that DNA found in the 24,000-year-old remains of a young boy from the archaeological Mal'ta-Buret' culture suggest that up to one-third of the indigenous Americans may have ancestry that can be traced back to western Eurasians, who may have \"had a more north-easterly distribution 24,000 years ago than commonly thought\". \"We estimate that 14 to 38 percent of Native American ancestry may originate through gene flow from this ancient population,\" the authors wrote. Professor Kelly Graf said,",
+        "answer_text": "24,000-year-old",
+        "answer_start": 54
+    },
+    {
+        "id": "35",
+        "question": "Who has abandoned the term Near East?",
+        "context": "The United States is the chief remaining nation to assign official responsibilities to a region called the Near East. Within the government the State Department has been most influential in promulgating the Near Eastern regional system. The countries of the former empires of the 19th century have in general abandoned the term and the subdivision in favor of Middle East, North Africa and various forms of Asia. In many cases, such as France, no distinct regional substructures have been employed. Each country has its own French diplomatic apparatus, although regional terms, including Proche-Orient and Moyen-Orient, may be used in a descriptive sense. The most influential agencies in the United States still using Near East as a working concept are as follows.",
+        "answer_text": "The countries of the former empires of the 19th century",
+        "answer_start": 237
+    },
+    {
+        "id": "36",
+        "question": "When was secretprojectrevolution released?",
+        "context": "Working with photographer Steven Klein, Madonna completed a 17-minute film called secretprojectrevolution. The BitTorrent company was selected by Madonna to release the film as part of a Madonna bundle. It was released on September 24, 2013, and consisted of the 17-minute film, its stills, a Vice interview, and a message from Madonna. With the film she launched the Art for Freedom initiative, which helped to promote \"art and free speech as a means to address persecution and injustice across the globe\". The website for the project has had over 3,000 art related submissions since its inception, with Madonna regularly monitoring and enlisting the help of other artists like David Blaine and Katy Perry as guest curators.",
+        "answer_text": "September 24, 2013",
+        "answer_start": 222
+    },
+    {
+        "id": "37",
+        "question": "Which area contains the Prudhoe Bay Oil Field?",
+        "context": "The North Slope is mostly tundra peppered with small villages. The area is known for its massive reserves of crude oil, and contains both the National Petroleum Reserve\u2013Alaska and the Prudhoe Bay Oil Field. Barrow, the northernmost city in the United States, is located here. The Northwest Arctic area, anchored by Kotzebue and also containing the Kobuk River valley, is often regarded as being part of this region. However, the respective Inupiat of the North Slope and of the Northwest Arctic seldom consider themselves to be one people.",
+        "answer_text": "The North Slope",
+        "answer_start": 0
+    },
+    {
+        "id": "38",
+        "question": "What year was the county of Hampshire officially named?",
+        "context": "After the establishment of Hampshire County Council, following the act in 1888, Southampton became a county borough within the county of Hampshire, which meant that it had many features of a county, but governance was now shared between the Corporation in Southampton and the new county council. There is a great source of confusion in the fact that the ancient shire county, along with its associated assizes, was known as the County of Southampton or Southamptonshire. This was officially changed to Hampshire in 1959 although the county had been commonly known as Hampshire or Hantscire for centuries. Southampton became a non-metropolitan district in 1974.",
+        "answer_text": "1959",
+        "answer_start": 515
+    },
+    {
+        "id": "39",
+        "question": "Beliefs about one God; the virgin birth; miracles; atonement for sins through the death, burial, and bodily resurrection of Jesus are examples of what?",
+        "context": "Shared doctrines would include beliefs about one God; the virgin birth; miracles; atonement for sins through the death, burial, and bodily resurrection of Jesus; the Trinity; the need for salvation (through belief in Jesus Christ as the son of God, his death and resurrection, and confession of Christ as Lord); grace; the Kingdom of God; last things (eschatology) (Jesus Christ will return personally and visibly in glory to the earth, the dead will be raised, and Christ will judge everyone in righteousness); and evangelism and missions. Some historically significant Baptist doctrinal documents include the 1689 London Baptist Confession of Faith, 1742 Philadelphia Baptist Confession, the 1833 New Hampshire Baptist Confession of Faith, the Southern Baptist Convention's Baptist Faith and Message, and written church covenants which some individual Baptist churches adopt as a statement of their faith and beliefs.",
+        "answer_text": "Shared doctrines",
+        "answer_start": 0
+    },
+    {
+        "id": "40",
+        "question": "Madonna was nominated to be inducted twice which year to the Songwriter Hall of Fame?",
+        "context": "Throughout her career Madonna has been involved in writing and producing most of her own music. Madonna's early songwriting skill was developed during her time with the Breakfast Club in 1979. According to author Carol Gnojewski, her first attempts at songwriting are perceived as an important self-revelation, as Madonna said: \"I don't know where [the songs] came from. It was like magic. I'd write a song every day. I said 'Wow, I was meant to do this'.\" Mark Kamins, her first producer, believed that Madonna is \"a much underrated musician and lyricist.\" Rolling Stone has named her \"an exemplary songwriter with a gift for hooks and indelible lyrics.\" According to Freya Jarman-Ivens, Madonna's talent for developing \"incredible\" hooks for her songs allows the lyrics to capture the attention of the audience, even without the influence of the music. As an example, Jarman-Ivens cites the 1985 single \"Into the Groove\" and its line \"Live out your fantasy here with me, just let the music set you free; Touch my body, and move in time, now I know you're mine.\" Madonna's songwriting are often autobiographical over the years, dealing with various themes from love and relationships to self-respect and female empowerment. Her songs also speak about taboo and unconventional issues of their period, such as sexuality and AIDS on Erotica (1992). Many of her lyrics contain innuendos and double entendre, which lead to multiple interpretations among music critics and scholars. Madonna has been nominated for being inducted into the Songwriters Hall of Fame twice, for 2014 and 2016 ceremony. Rolling Stone listed Madonna at number 56 on the \"100 Greatest Songwriters of All Time\".",
+        "answer_text": "2014 and 2016",
+        "answer_start": 1569
+    }
+]
+    
