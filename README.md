@@ -1,0 +1,2 @@
+# Comparison-of-Monolingual-BERTa-and-Multilingual-BERTa-for-Question-Answering
+This project compares the performance of Monolingual BERTa and Multilingual BERTa models on question answering tasks using English (high-resource) and Nepali (low-resource) datasets. It involves fine-tuning pre-trained models on SQuAD-style data, evaluating using F1 scores, and analyzing which model performs better in different linguistic contexts.
