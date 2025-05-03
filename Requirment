@@ -1,0 +1,21 @@
+
+name: bert-nlp
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - jupyter
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - transformers
+  - datasets
+  - torch
+  - tqdm
+  - nltk
+  - pip:
+    - evaluate
