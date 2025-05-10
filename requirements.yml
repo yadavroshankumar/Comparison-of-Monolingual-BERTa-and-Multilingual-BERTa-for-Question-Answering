@@ -1,4 +1,3 @@
-yaml
 name: bert-nlp
 channels:
   - defaults
